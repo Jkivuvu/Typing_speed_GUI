@@ -1,0 +1,11 @@
+sentence_list = ["I'm still learning English, so please speak slowly.",
+                 'Could you say that again, please?',
+                 'Can you recommend any English learning resources',
+                 'It was great catching up with you, take care!',
+                 "I'm trying to build my English vocabulary.",
+                 'Have you seen any good movies or interesting books lately?',
+                 'Do you have any pets?',
+                 'Do you follow any TV shows or series?',
+                 "What's your favorite thing to do in your free time?",
+                 'Have you tried any new restaurants or cafes recently?',
+                 "What's your favorite type of cuisine?"]
